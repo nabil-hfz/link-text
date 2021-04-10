@@ -1,8 +1,7 @@
 name: link_text
-description: A new Flutter package.
+description: Link Text library that can infer the text and discover the link insid it and style as you want. It's light to integrate, simple to use very effecient.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/nabil-hfz/link-text
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
